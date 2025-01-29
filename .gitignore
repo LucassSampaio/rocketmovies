@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+src/components/MovieList/index.jsx
+src/components/MovieList/styles.js

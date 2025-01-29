@@ -13,7 +13,7 @@ export const Form = styled.form`
   align-content: center;
 
 	> h1, a{
-		color: ${({ theme }) => theme.COLORS.PRIMARY_RED};
+		color: ${({ theme }) => theme.COLORS.BACKGROUND_RED_BASE};
 	}
 
 	> h2, span{
